@@ -1,9 +1,9 @@
 <?php
 //connect.php
 $server = 'localhost';
-$username   = 'damionha_form';
-$password   = 'webpass';
-$database   = 'damionha_form';
+$username   = 'admin';
+$password   = '_';
+$database   = 'grace';
 
 if(!mysql_connect($server, $username,  $password))
 {
